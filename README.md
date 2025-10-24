@@ -83,7 +83,7 @@
 ## 💜 Views and Followers:
 
 <a href="https://github.com/ibrahimhesabow/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+    <img src="https://komarev.com/ghpvc/?username=ibrahimhesabow">
 </a>
 <a href="https://github.com/ibrahimhesabow?tab=followers"><img src="https://img.shields.io/github/followers/ibrahimhesabow?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
